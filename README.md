@@ -13,5 +13,5 @@
 - add instruction to README
 - git add .
 - git commit -m "add instruction"
-- gut merge
+- git merge
 - git push
